@@ -2,6 +2,15 @@
 Projeto utilizando Spring Boot, Spring MVC, Spring Data, XA Atomikos e base de dados Postgresql.
 As bibliotecas estão em um projeto separado "[TeslaCore](https://github.com/caiocolares/TeslaCore)".
 
+### Cadastros
+- Pessoas;
+- Setores;
+- Cargos;
+- Lotação;
+
+### Controle de Acesso
+- Usuários;
+- Grupos;
 
 ![Alt text](example1.jpg?raw=true "Example1")
 ![Alt text](example2.jpg?raw=true "Example2")
